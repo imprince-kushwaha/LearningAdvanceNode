@@ -1,0 +1,34 @@
+                                                Question and Answer
+
+Question-1) What are node_modules,package.json and package-lock.json?
+All the source code our install comes here in node_modules (whenever we install some package
+it gets code from internet and put it here in node_modules)
+Question-2) What are dependencies?
+Question-3) Difference between ^ and ~?
+Question-4) What does it means in version like 4.11.5 and why like this?
+Question-5) Does the order of route matters?
+Question-6) Explain routing and use of ?,+,(),* in the routes
+Question-7) How to use regex in routes /a/,/.*fly$/
+Question-8)What is .bin in node_modules?
+Question-9)
+Question-10)
+Question-11)
+Question-12)
+Question-13)
+Question-14)
+Question-15)
+Question-16)
+Question-17)
+Question-18)
+Question-19)
+Question-20)
+Question-21)
+Question-22)
+Question-23)
+Question-24)
+Question-25)
+Question-26)
+Question-27)
+Question-28)
+Question-29)
+Question-30)
